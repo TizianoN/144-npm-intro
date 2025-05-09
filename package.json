@@ -1,0 +1,18 @@
+{
+  "name": "npm-intro",
+  "version": "1.0.0",
+  "description": "Questo è un pacchetto creato in Boolean in classe #144",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Test",
+    "Boolean"
+  ],
+  "author": "Tiziano Nicolai",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.9.0"
+  }
+}
